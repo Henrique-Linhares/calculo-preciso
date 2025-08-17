@@ -48,4 +48,4 @@ Com a implementação do "Cálculo Preciso", esperamos alcançar:
 
 ## 🎓 Atividade Acadêmica
 
-Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso técnico de**[Análise e Desenvolvimento de Sistemas]** no **[Senai São Carlos]**.
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para o curso técnico de **[Análise e Desenvolvimento de Sistemas]** no **[Senai São Carlos]**.
