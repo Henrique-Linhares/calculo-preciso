@@ -17,11 +17,11 @@ O sistema também inclui funcionalidades de gerenciamento, permitindo que difere
 ## ⚙️ Tecnologias Utilizadas
 
 * **Front-end:**
-    * [avaScript
+    * JavaScript
     * HTML5
     * CSS3
 * **Back-end:**
-  [Java/Spring
+    * Java/Spring
 * **Banco de Dados:**
     * MySQL
 * **Versionamento:**
